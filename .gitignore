@@ -1,4 +1,5 @@
 config.py
 text_doc
-youtube-analysis.ipynb
+.previous_analysis
 readme_copied.md
+.ipynb_checkpoints
