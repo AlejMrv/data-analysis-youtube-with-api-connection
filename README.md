@@ -35,5 +35,5 @@ This was developed thanks to the content of the channel "Thu Vu Data Analytics"
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Raw Data can be extract from Youtube API. To more information see this [tutorial](https://developers.google.com/youtube/v3/).    
 3. Data exploration, processing/transformation and modeling scripts are being kept in youtube-analysis-channels.ipynb
-4. The code for API requests video and comments stats is located in the notebook.  . Therefore it could be cloned to analyze new youtube channels.
+4. The code for API requests video and comments stats is located in the notebook. Therefore it could be cloned to analyze new youtube channels.
 5. This project was developed thanks to the content shared on this [link](https://www.youtube.com/watch?v=D56_Cx36oGY&t=795s) "Thu Vu Data Analytics"
